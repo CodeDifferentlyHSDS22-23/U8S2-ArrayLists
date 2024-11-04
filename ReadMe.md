@@ -1,4 +1,4 @@
-# U7S2 ArrayLists
+# U8S2 ArrayLists
 
 * Part A - Foundations 8.2
 * Part B - Foundations Practice
